@@ -1,4 +1,4 @@
-Közlekedési tábla felismerő program
+# Közlekedési tábla felismerő program
 
 A programnak beadunk egy mp4 formátumú fájlt, majd az készít egy predikciót rá fél másodpercenként, hogy milyen táblák láthatók a képen.
 
